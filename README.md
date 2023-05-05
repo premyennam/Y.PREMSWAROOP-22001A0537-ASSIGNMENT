@@ -43,7 +43,7 @@ sourceforge
 circle ci
 g2 deals
  
- #PYTHON ASSIGNMENT:
+ #PYTHON ASSIGNMENT:(Description of program)
  
  1.Print: 
          This file explains about the included code stub will read an integer,n, from STDIN.
@@ -61,7 +61,7 @@ Example:
 Number = 121
 The given number is not a palindrome!
 
-3.Ifelse:
+3.Ifelse1:
          This file explains about a given is weird or not. Given an integer, , perform the following conditional actions:
 If  is odd, print Weird
 If  is even and in the inclusive range of  to , print Not Weird
@@ -120,8 +120,9 @@ A Palindromic triangle of size 5 is:
 1234321
 123454321
  
-8.Basic Calculator:
-         This file explains about 
- 
+8.Text of characters:
+         This file explains about number of vowels,consonents(both upper and lower case characters),special characters,digits(0 to 9) in a given string.If we enter the string , it gives no of vowels,consonents(both upper and lower case characters),special characters,digits(0 to 9) in a given string
+         
+9. 
  
          
