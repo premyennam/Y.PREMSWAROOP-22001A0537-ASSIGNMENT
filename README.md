@@ -129,5 +129,31 @@ No.of speial characters in the given text : 7
 No.of digits in the given text : 2         
          
 9.Basic Calculator: 
- 
+         This file explains about a calculator that performs various operators like scientific calculator.It performs operations like Trigonometic functions,Inverse Trigonometric functions,Hyperbolic functions,exponential value,etc.Here we have to select the operations that are going to perform and give the input to required  operation.
+Example:
+operation          -input
+
+sin                -sin
+cos                -cos
+tan                -tan
+cot                -cot
+sec                -sec
+cosec              -cosec
+addition           -a
+subtraction        -s
+division           -d
+integer division   -id
+multiplication     -m
+square root        -sr
+inversse sin       -isin
+incerse cos        -icos
+inverse tan        -itan
+hyperbolic sin     -hsin
+hyperbolic cos     -hcos
+hyperbolic tan     -htan
+exponential values -power
+Enter the operation: hsin
+Enter value: 23
+0.4122940588991318
          
+10.
