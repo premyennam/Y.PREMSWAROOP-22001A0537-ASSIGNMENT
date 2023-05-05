@@ -156,4 +156,13 @@ Enter the operation: hsin
 Enter value: 23
 0.4122940588991318
          
-10.
+10.Find angle in degrees:
+         This file explians about find angle (MBC) in degrees in triangle ABC. ABC is a right triangle,90 degrees at B.
+Therefore,angle (ABC)=90 degrees.
+Point M is the midpoint of hypotenuse AC .
+Given the lengths are AB and AC.
+By using tan function we can calculate the angle(MBC).
+Example:
+AB=10
+BC=10
+angle=45degrees
