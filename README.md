@@ -121,8 +121,13 @@ A Palindromic triangle of size 5 is:
 123454321
  
 8.Text of characters:
-         This file explains about number of vowels,consonents(both upper and lower case characters),special characters,digits(0 to 9) in a given string.If we enter the string , it gives no of vowels,consonents(both upper and lower case characters),special characters,digits(0 to 9) in a given string
+         This file explains about number of vowels,consonents(both upper and lower case characters),special characters,digits(0 to 9) in a given string.If we enter the string , it gives no of vowels,consonents(both upper and lower case characters),special characters,digits(0 to 9) in a given string.
+Enter the string: My house is located in 31st street.
+No.of vowels in the given text : 10
+No.of consonants in the given text : 16
+No.of speial characters in the given text : 7
+No.of digits in the given text : 2         
          
-9. 
+9.Basic Calculator: 
  
          
